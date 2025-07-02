@@ -1,7 +1,4 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="./hello world (1) (1).png" alt="hero" style="width: 100%; height: auto; max-height: 100px;" />
-</p>
+
 
 <!-- Avatar + Intro Card -->
 <div align="center">
@@ -83,15 +80,6 @@
 
 - 🏫 **D.A.V Public School**, Jharsuguda – *93%*  
 - 🏫 **Saint Thomas English School**, Jharsuguda – *94.4%*
-
----
-
-### 🔁 Testimonials
-
-| Name | Role | Testimonial |
-|------|------|-------------|
-| Pushpendera Kumar | HOD, Operating Systems | "Harsh contributed meaningfully to improving university systems and teaching processes." |
-| Adhiraj Chauhan | Game Developer @ Unity | "Harsh created a working Web3 prototype faster than expected." |
 
 ---
 
