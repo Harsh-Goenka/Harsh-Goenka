@@ -49,10 +49,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,java,js,php,html,css,nodejs,react,express,mysql,mongodb,postgres,tailwind,aws" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Goenka&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Goenka&layout=compact&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
