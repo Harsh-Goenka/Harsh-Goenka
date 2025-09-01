@@ -36,8 +36,9 @@
 
 | Project           | Description                                                                 | Tech Stack                                |
 |-------------------|-----------------------------------------------------------------------------|-------------------------------------------|
+| **Book My Doc**   | One-stop solution for hassle-free doctor bookings                       | `React`, `Express`, `MongoDB`, `Tailwind`   |
 | **Advice Legal**   | AI-based legal advice platform for public awareness                        | `React`, `Express`, `MongoDB`, `OpenAI`   |
-| **Lifeline Connect**| At-home blood bank system with real-time WebRTC support                   | `React`, `WebRTC`, `PostgreSQL`, `AWS S3` |
+| **Lifeline Connect**| At-home blood bank system with real-time WebRTC support                   | `React`, `Express`, `SQL`, `Tailwind` |
 | **Game Dev (Unity)**| Created multiple 2D/3D games using Unity and C#                            | `Unity`, `C#`, `GitHub`, `Game Physics`   |
 
 ---
@@ -76,7 +77,7 @@
 ### 📚 Education
 
 - 🎓 **B.Tech in CSE** — Lovely Professional University  
-  *CGPA:* 7.46 (Since 2022)
+  *CGPA:* 8.02 (Since 2022)
 
 - 🏫 **D.A.V Public School**, Jharsuguda – *93%*  
 - 🏫 **Saint Thomas English School**, Jharsuguda – *94.4%*
