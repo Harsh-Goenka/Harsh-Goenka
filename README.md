@@ -3,6 +3,7 @@
 <!-- Avatar + Intro Card -->
 <div align="center">
   <h1>Hey, I’m <b>Harsh Goenka</b> 👋</h1>
+  <h3>Portfolio: <a href="https://harshgoenka.framer.website/" target="_blank">harshgoenka.framer.website</a></h3>
   <h3>Find me at: <a href="https://linkedin.com/in/harshgoenkaa/" target="_blank">linkedin.com/in/harshgoenkaa</a></h3>
   
   <i>Crafting fast, scalable, and impactful software systems</i><br/>
